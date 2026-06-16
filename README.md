@@ -6,8 +6,6 @@
 ![Node.js](https://img.shields.io/badge/runtime-Node.js-339933)
 ![IoT](https://img.shields.io/badge/type-IoT%20Fitness-lightgrey)
 
-# Healthper Portfolio
-
 > 헬스장 운동기구에 IoT 기술을 적용하여 사용자에게 운동 데이터 측정, 자동 무게 조절, 1RM 기반 점수 계산을 지원하여
    사용자에게 안전하게 운동을 할 수 있게 도움을 주고 경쟁심리를 유도하여 사용자의 운동 흥미를 높임
 
